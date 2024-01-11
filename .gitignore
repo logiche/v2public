@@ -1,0 +1,7 @@
+logs/
+.idea
+/test.*
+.tmp_session
+main
+go.sum
+*.iml
